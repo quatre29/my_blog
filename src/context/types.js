@@ -1,0 +1,4 @@
+export const GET_POSTS = "GET_POSTS";
+export const GET_TRENDING_POSTS = "GET_TRENDING_POSTS";
+export const POSTS_ERROR = "POSTS_ERROR";
+export const GET_NEWEST_POSTS = "GET_NEWEST_POSTS";
